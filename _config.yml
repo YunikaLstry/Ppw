@@ -1,8 +1,20 @@
-title: Tugas Pengantar
+title: Web Mining
 author: Nama Anda
-logo: foto.JPG  # <--- Path ke file foto Anda (sidebar kiri atas)
+logo: foto.JPG
+
+repository:
+  url: https://github.com/YunikaLstry/ppw  # Ganti dengan URL repositori GitHub Anda
+  branch: main
+
 execute:
   execute_notebooks: "off"
+
 html:
-  use_issues_button: false
   use_repository_button: true
+  use_issues_button: false
+
+exclude_patterns:
+  - "nwebmining/*"
+  - ".venv/*"
+  - "_build/*"
+  - ".ipynb_checkpoints/*"
