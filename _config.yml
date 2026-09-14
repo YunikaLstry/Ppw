@@ -1,0 +1,8 @@
+title: Tugas Pengantar
+author: Nama Anda
+logo: foto.JPG  # <--- Path ke file foto Anda (sidebar kiri atas)
+execute:
+  execute_notebooks: "off"
+html:
+  use_issues_button: false
+  use_repository_button: true

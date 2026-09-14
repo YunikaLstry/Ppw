@@ -1,0 +1,4 @@
+nwebmining/
+.venv/
+_build/
+.ipynb_checkpoints/
