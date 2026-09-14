@@ -1,6 +1,6 @@
 format: jb-book
 root: profil
 chapters:
-  - file: catatan
   - file: crawling
   - file: preprocessing
+  - file: catatan
