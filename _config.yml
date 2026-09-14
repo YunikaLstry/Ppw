@@ -12,6 +12,8 @@ execute:
 html:
   use_repository_button: true
   use_issues_button: false
+  extra_css:
+    - _static/custom.css
 
 exclude_patterns:
   - "nwebmining/*"
